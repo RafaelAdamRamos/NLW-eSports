@@ -1,27 +1,27 @@
-# NLW‑eSports
+# NLW-eSports
 
-> 🔧 **Projeto**  
-> NLW‑eSports é uma página web estática criada como parte da minha participação no evento **NLW eSports** da Rocketseat, cujo objetivo é exibir informações sobre games, canais e redes sociais.
+> 🔧 **Project**  
+NLW-eSports is a static web page created as part of my participation in Rocketseat's **NLW eSports** event. Its goal is to display information about games, channels, and social networks.
 
-## Descrição
+## Description
 
-NLW‑eSports é um projeto front‑end construído com **HTML e CSS** (com possíveis interações simples via JavaScript), que apresenta:
-- Jogos favoritos
-- Canais e streamers
-- Links das minhas redes sociais
+NLW-eSports is a front-end project built with **HTML and CSS** (with possible simple JavaScript interactions). It presents:
+- Favorite games
+- Channels and streamers
+- Links to my social media
 
-O propósito principal é praticar desenvolvimento web e organização de conteúdo visual.
+The main purpose is to practice web development and visual content organization.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - **HTML**
 - **CSS**
 
-## Link para visualização
+## Live Demo
 
 https://rafaeladamramos.github.io/NLW-eSports/
 
-## Observações
+## Notes
 
-- Projeto criado para fins de estudo em front‑end
-- Página estática sem backend
+- Project created for front-end study purposes
+- Static page with no backend
